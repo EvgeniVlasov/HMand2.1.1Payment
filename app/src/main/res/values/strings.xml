@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Payment</string>
+    <string name="txtPayment">Введите сумму и способ оплаты</string>
+    <string name="editInputMoney">Введите сумму</string>
+    <string name="editInfoPayment">Информация об оплате</string>
+    <string name="checkBoxBankCard">С банковской карты</string>
+    <string name="checkBoxNumberPhone">С мобильного телефона</string>
+    <string name="checkBoxCashAddress">Наличными по адресу</string>
+    <string name="buttonOkPayment">Оплатить</string>
+
+</resources>
